@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  TW+(iPhone)
+
+  Created by Dennis Yang on 13-9-11.
+  Copyright (c) 2013年 Dennis Yang. All rights reserved.
+*/
+"Favorite" = "收藏";
+"No favorite" = "暂无收藏";
+"Now nothing about" = "暂无";
+"Related docs" = "相关的文档";
+"Wrong" = "错误";
